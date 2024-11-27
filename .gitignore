@@ -1,2 +1,4 @@
 totalFitnessFactor.csv
 .DS_store
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
